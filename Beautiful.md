@@ -27,5 +27,5 @@
 
 
 
-## [A link to another page](Pciture.md)
+## [A link to another page](Picture.md)
 
